@@ -3,5 +3,10 @@
   "version": "1.0.1",
   "bin": {
     "basanta": "index.js"
-  }
+  },
+  "keywords": [
+    "basanta rai",
+    "basanta",
+    "rai"
+  ]
 }
