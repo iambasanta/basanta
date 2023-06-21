@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Get to know basanta via `npx basanta`",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "basanta": "index.js"
   },
