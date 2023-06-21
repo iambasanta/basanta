@@ -11,5 +11,8 @@
     "rai"
   ],
   "author": "iambasanta",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
 }
