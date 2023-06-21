@@ -1,0 +1,7 @@
+{
+  "name": "basanta",
+  "version": "1.0.0",
+  "bin": {
+    "basanta": "index.js"
+  }
+}
