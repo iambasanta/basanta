@@ -1,6 +1,6 @@
 {
   "name": "basanta",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Get to know basanta via `npx basanta`",
   "main": "index.js",
   "type": "module",
