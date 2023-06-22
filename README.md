@@ -1,11 +1,21 @@
-# `npx basanta`
+## basanta
 
-> Get to know Basanta Rai using your command line with Node.js
+A simple `npm` package to display my short introduction.
 
-## Usage
+---
 
-To use this CLI run the following command:
+### Installation
+
+Make sure you have [Node.js](https://nodejs.org/en) installed on your system. Then, install the package using npm.
 
 ```sh
-npx basanta
+npm install basanta
+```
+
+### Usage
+
+After installation run the following command in your terminal to execute the package:
+
+```sh
+basanta
 ```
